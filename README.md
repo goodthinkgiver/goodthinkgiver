@@ -1,12 +1,11 @@
-<!--
-*👋 Hi, I'm kyrie
+👋 Hi, I'm kyrie
 
 C# & C++ developer | building software and continuously improving
 
 🧠 About Me
 
 Focused on writing clean, efficient code and solving real problems.  
-I enjoy working across both high-level and low-level development,  
+I enjoy working across both medium-level and low-level development,  
 always aiming for clarity, performance, and maintainability.
 
 🛠️ Tech Stack
