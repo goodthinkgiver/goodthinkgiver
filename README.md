@@ -1,40 +1,76 @@
-👋 Hi, I'm kyrie
+<div align="center">
 
-C# & C++ developer | building software and continuously improving
+# 👋 Kyrie
 
-🧠 About Me
+### 💻 C# & C++ Developer
 
-Focused on writing clean, efficient code and solving real problems.  
-I enjoy working across both medium-level and low-level development,  
-always aiming for clarity, performance, and maintainability.
+### Building software and continuously improving 🚀
 
-🛠️ Tech Stack
+---
 
-💻 C#  ⚙️ C++  🧩 .NET  🔧 Git  🗄️ SQL  
+</div>
 
-📊 GitHub Activity
+<div align="center">
 
-Consistent progress, continuous learning, and steady improvement.
+## 🧠 My Developer Statement
 
-📌 Projects
+**Focused on writing clean, efficient code and solving real problems.**
+Working across both **medium-level** and **low-level** development,
+always aiming for **clarity**, **performance**, and **maintainability**.
 
-🔹 Applications and tools built with C#  
-🔹 Performance-focused solutions in C++  
-🔹 Ongoing experiments and learning projects  
+</div>
 
-🎯 Goals
+---
 
-Improving every day as a developer,  
-building reliable software, and expanding my skill set.*goodthinkgiver/goodthinkgiver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack & Arsenal
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats & Grind
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🚀 Projects & Work
+
+🔹 Applications and tools built with **C#**
+🔹 Performance-focused solutions in **C++**
+🔹 Experiments and learning projects
+🔹 Continuous improvement through coding
+
+---
+
+## 🎯 Mission & Goals
+
+* 📈 Improving every day as a developer
+* 🧠 Expanding knowledge in system / low-level programming
+* ⚡ Writing fast, reliable software
+* 🛠️ Building real-world projects
+
+---
+
+<div align="center">
+
+### 🔥 Consistency • Discipline • Progress
+
+</div>
+
