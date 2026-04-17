@@ -40,11 +40,14 @@ always aiming for **clarity**, **performance**, and **maintainability**.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kyrie&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=
+goodthinkgiver&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   
-  <img height="170" src="https://github-readme-streak-stats-eight.vercel.app/?user=kyrie&theme=tokyonight" alt="Current Streak" />
+  <img height="170" src="https://github-readme-streak-stats-eight.vercel.app/?user=
+goodthinkgiver&theme=tokyonight" alt="Current Streak" />
   
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyrie&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=
+goodthinkgiver&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 </div>
 
