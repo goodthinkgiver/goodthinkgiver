@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2b2b2b,100:000000&height=180&section=header&text=KYRIE&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=C%2FC%2B%2B%20DEVELOPER&descAlignY=60&descSize=18&animation=fadeIn&fontType=Bebas%20Neue" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2b2b2b,100:000000&height=260&section=header&text=KYRIE&fontColor=ffffff&fontSize=64&fontAlignY=35&desc=C%2FC%2B%2B%20DEVELOPER&descAlignY=52&descSize=20&animation=twinkling&fontType=Bebas%20Neue" width="100%"/>
 
 </div>
-
-<br>
 
 <div align="center">
 
@@ -13,8 +11,6 @@
 ![Followers](https://img.shields.io/github/followers/goodthinkgiver?style=for-the-badge&color=111111&labelColor=000000&label=👤%20FOLLOWERS)
 
 </div>
-
-<br>
 
 <h1 align="center">Know About Me</h1>
 
@@ -32,6 +28,8 @@
 I'm a systems-focused C/C++ developer with a strong interest in low-level programming, performance optimization, and how software actually talks to hardware. I enjoy working close to the metal — memory management, concurrency, and squeezing out inefficiencies that most higher-level languages abstract away.
 
 My day-to-day revolves around writing clean, efficient code, debugging the inevitable segfault, and learning how operating systems and compilers work under the hood. I care about writing software that's fast, predictable, and doesn't fall apart under pressure.
+
+Outside of code, I like to unwind with a bit of gaming — mostly GTA V and Clash of Clans — proof that even a systems programmer needs a break from pointers every once in a while.
 
 </td>
 </tr>
@@ -91,6 +89,13 @@ A toy C++ compiler that understands about 12% of C++, which is somehow still mor
 
 <br>
 
+<h1 align="center">Contribution</h1>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=goodthinkgiver&theme=github-dark&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff)
+
+</div>
 <h1 align="center">Contribution</h1>
 
 <div align="center">
