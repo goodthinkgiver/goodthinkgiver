@@ -2,68 +2,36 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2b2b2b,100:000000&height=260&section=header&text=KYRIE&fontColor=ffffff&fontSize=64&fontAlignY=35&desc=C%2FC%2B%2B%20DEVELOPER&descAlignY=52&descSize=20&animation=twinkling&fontType=Bebas%20Neue" width="100%"/>
 
-</div>
-
-<div align="center">
-
-![Stars](https://img.shields.io/github/stars/goodthinkgiver/goodthinkgiver?style=for-the-badge&color=111111&labelColor=000000&label=★%20STARS)
-![Forks](https://img.shields.io/github/forks/goodthinkgiver/goodthinkgiver?style=for-the-badge&color=111111&labelColor=000000&label=⑂%20FORKS)
-![Followers](https://img.shields.io/github/followers/goodthinkgiver?style=for-the-badge&color=111111&labelColor=000000&label=👤%20FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/goodthinkgiver/goodthinkgiver?style=for-the-badge&color=111111&labelColor=000000&label=★%20STARS)&nbsp;&nbsp;&nbsp;![Forks](https://img.shields.io/github/forks/goodthinkgiver/goodthinkgiver?style=for-the-badge&color=111111&labelColor=000000&label=⑂%20FORKS)&nbsp;&nbsp;&nbsp;![Followers](https://img.shields.io/github/followers/goodthinkgiver?style=for-the-badge&color=111111&labelColor=000000&label=👤%20FOLLOWERS)
 
 </div>
 
 <h1 align="center">Know About Me</h1>
 
-<table>
-<tr>
-<td width="30%" align="center">
+<img align="left" src="brain.png" width="190" alt="brain illustration"/>
 
-<img src="assets/brain.png" width="200" alt="brain illustration"/>
+**Hey there! I'm KYRIE** 👋
 
-</td>
-<td width="70%">
+I'm a systems-focused C/C++ developer with a strong interest in low-level programming and performance optimization. I enjoy working close to the metal — memory management, concurrency, and squeezing out inefficiencies that most higher-level languages abstract away. Outside of code, I unwind with a bit of GTA V and Clash of Clans.
 
-### Hey there! I'm KYRIE 👋
+<br clear="left"/>
 
-I'm a systems-focused C/C++ developer with a strong interest in low-level programming, performance optimization, and how software actually talks to hardware. I enjoy working close to the metal — memory management, concurrency, and squeezing out inefficiencies that most higher-level languages abstract away.
+---
 
-My day-to-day revolves around writing clean, efficient code, debugging the inevitable segfault, and learning how operating systems and compilers work under the hood. I care about writing software that's fast, predictable, and doesn't fall apart under pressure.
+# Top Projects (built to avoid manual labor)
 
-Outside of code, I like to unwind with a bit of gaming — mostly GTA V and Clash of Clans — proof that even a systems programmer needs a break from pointers every once in a while.
+<img align="right" src="flame.png" width="150" alt="flame illustration"/>
 
-</td>
-</tr>
-</table>
+[![MEMLEAK-HUNTER](https://img.shields.io/badge/-MEMLEAK--HUNTER-000000?style=flat-square&logo=github&logoColor=white)](#)
+A custom memory profiler for C/C++, because Valgrind was too polite about my mistakes.
 
-<br>
+[![KERNEL-SPARK](https://img.shields.io/badge/-KERNEL--SPARK-000000?style=flat-square&logo=github&logoColor=white)](#)
+A lightweight process scheduler written in C, built mostly to prove I can crash my own OS faster than Windows can.
 
-<h1 align="center">Top Projects (built to avoid manual labor)</h1>
+[![COMPILE-OR-DIE](https://img.shields.io/badge/-COMPILE--OR--DIE-000000?style=flat-square&logo=github&logoColor=white)](#)
+A toy C++ compiler that understands about 12% of C++, which is somehow still more than I do.
 
-<table>
-<tr>
-<td width="70%">
-
-[![MEMLEAK-HUNTER](https://img.shields.io/badge/-MEMLEAK--HUNTER-181717?style=flat-square&logo=github&logoColor=white)](#)
-A custom memory profiler for C/C++, because Valgrind was too polite about my mistakes. Tracks allocations, flags leaks, and quietly judges my pointer arithmetic in real time.
-<br>
-
-[![KERNEL-SPARK](https://img.shields.io/badge/-KERNEL--SPARK-181717?style=flat-square&logo=github&logoColor=white)](#)
-A lightweight process scheduler written in C, built mostly to prove I can crash my own OS faster than Windows can. Round-robin, priority queues, and a worrying number of segfaults along the way.
-<br>
-
-[![COMPILE-OR-DIE](https://img.shields.io/badge/-COMPILE--OR--DIE-181717?style=flat-square&logo=github&logoColor=white)](#)
-A toy C++ compiler that understands about 12% of C++, which is somehow still more than I do. Lexer, parser, and a code generator held together by pure stubbornness.
-
-</td>
-<td width="30%" align="center">
-
-<img src="assets/flame.png" width="160" alt="flame illustration"/>
-
-</td>
-</tr>
-</table>
-
-<br>
+<br clear="right"/>
 
 <h1 align="center">Connect</h1>
 
@@ -76,26 +44,11 @@ A toy C++ compiler that understands about 12% of C++, which is somehow still mor
 
 </div>
 
-<br>
-
-<div align="center">
-
 > Code is never finished. It only becomes slightly less terrible over time.
->
+
 > Every commit I make is essentially just a small, desperate apology to my future self.
-> Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let anywhere near a keyboard.
+> Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a keyboard.
 
-</div>
-
-<br>
-
-<h1 align="center">Contribution</h1>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=goodthinkgiver&theme=github-dark&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff)
-
-</div>
 <h1 align="center">Contribution</h1>
 
 <div align="center">
