@@ -1,13 +1,12 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2b2b2b,100:000000&height=260&section=header&text=KYRIE&fontColor=ffffff&fontSize=64&fontAlignY=35&desc=C%2FC%2B%2B%20DEVELOPER&descAlignY=52&descSize=20&animation=twinkling&fontType=Bebas%20Neue" width="100%"/>
+<img src="cr.gif" width="100%"/>
+<h1 align="center">KYRIE</h1>
+<p align="center">C/C++ DEVELOPER</p>
 
 ![Stars](https://img.shields.io/github/stars/goodthinkgiver/goodthinkgiver?style=for-the-badge&color=111111&labelColor=000000&label=★%20STARS)&nbsp;&nbsp;&nbsp;![Forks](https://img.shields.io/github/forks/goodthinkgiver/goodthinkgiver?style=for-the-badge&color=111111&labelColor=000000&label=⑂%20FORKS)&nbsp;&nbsp;&nbsp;![Followers](https://img.shields.io/github/followers/goodthinkgiver?style=for-the-badge&color=111111&labelColor=000000&label=👤%20FOLLOWERS)
-
 </div>
 
 <h1 align="center">Know About Me</h1>
-
 <img align="left" src="brain.png" width="190" alt="brain illustration"/>
 
 **Hey there! I'm KYRIE** 👋
@@ -19,7 +18,6 @@ I'm a systems-focused C/C++ developer with a strong interest in low-level progra
 ---
 
 # Top Projects (built to avoid manual labor)
-
 <img align="right" src="flame.png" width="150" alt="flame illustration"/>
 
 [![MEMLEAK-HUNTER](https://img.shields.io/badge/-MEMLEAK--HUNTER-000000?style=flat-square&logo=github&logoColor=white)](#)
@@ -34,7 +32,6 @@ A toy C++ compiler that understands about 12% of C++, which is somehow still mor
 <br clear="right"/>
 
 <h1 align="center">Connect</h1>
-
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](#)
@@ -45,12 +42,10 @@ A toy C++ compiler that understands about 12% of C++, which is somehow still mor
 </div>
 
 > Code is never finished. It only becomes slightly less terrible over time.
-
 > Every commit I make is essentially just a small, desperate apology to my future self.
 > Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a keyboard.
 
 <h1 align="center">Contribution</h1>
-
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=goodthinkgiver&theme=github-dark&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff)
