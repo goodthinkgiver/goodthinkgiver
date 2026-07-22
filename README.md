@@ -1,5 +1,5 @@
 <div align="center">
-<img src="cr.gif" width="100%"/>
+<img src="cr.gif?v=2" width="100%"/>
 <h1 align="center">KYRIE</h1>
 <p align="center">C/C++ DEVELOPER</p>
 
